@@ -177,3 +177,4 @@ cython_debug/
 # Ignore the dataset file
 artifacts/data_ingestion/data.zip
 artifacts/data_ingestion/skin-disease-dataset
+artifacts/*
